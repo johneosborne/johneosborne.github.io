@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-29T13:43:59-08:00</updated><id>/feed.xml</id><title type="html">Nova Machina</title><subtitle>An exploration of agility, learning, and growth.</subtitle><entry><title type="html">Amazon and the environment</title><link href="/environment/2020/12/28/amazon-environment.html" rel="alternate" type="text/html" title="Amazon and the environment" /><published>2020-12-28T13:00:00-08:00</published><updated>2020-12-28T13:00:00-08:00</updated><id>/environment/2020/12/28/amazon-environment</id><content type="html" xml:base="/environment/2020/12/28/amazon-environment.html">&lt;p&gt;Could it be that Amazon is good for the environment? What about the cardboard boxes, and the trucks, and the power-hungry data centers? To understand what Amazon brings to the table, we need to look at the alternatives.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-30T19:27:14-08:00</updated><id>/feed.xml</id><title type="html">Nova Machina</title><subtitle>An exploration of agility, learning, and growth.</subtitle><entry><title type="html">What Bezos learned from Toyota - and others missed</title><link href="/lean/2020/12/30/bezos-toyota.html" rel="alternate" type="text/html" title="What Bezos learned from Toyota - and others missed" /><published>2020-12-30T13:00:00-08:00</published><updated>2020-12-30T13:00:00-08:00</updated><id>/lean/2020/12/30/bezos-toyota</id><content type="html" xml:base="/lean/2020/12/30/bezos-toyota.html">&lt;p&gt;As Amazon roars across the global economy, we’re reminded of another company that roared in a similar manner back in the 1980s - Toyota.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/website-car.png&quot; alt=&quot;Website dreams of a car&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lessons-from-toyota&quot;&gt;Lessons from Toyota&lt;/h3&gt;
+
+&lt;p&gt;Toyota seemed to defy the laws of physics as it took over the world’s auto industry. They managed to make better cars, with less labor and more selection.&lt;/p&gt;
+
+&lt;p&gt;Now we have Amazon, somehow able to sell us things at a low price, with free shipping and a huge selection, and with customer service that puts them at the top of all companies in the US. And then they repeat that success with cloud services, devices, entertainment, and AI. What makes these two companies so exceptional? It turns out that they have a lot in common.&lt;/p&gt;
+
+&lt;h4 id=&quot;its-not-about-top-down-improvements&quot;&gt;It’s not about top-down improvements&lt;/h4&gt;
+
+&lt;p&gt;What many businesses took away from Toyota was that they needed to be lean. They interpreted this as cutting costs, which they did - as a top-down process. Other businesses learned that they should use just-in-time inventory, which was easy to implement as a tightening up of their existing approach. Still others learned that they should be meticulous with data to eliminate defects, and Six Sigma &lt;a href=&quot;https://books.google.com/books?id=O6276jidG3IC&amp;amp;printsec=frontcover&amp;amp;hl=en#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;was born&lt;/a&gt; - as a centralized, top-down process. Only a few adopted the plumbing that led to these efficiencies - empowered employees, working on small batches. Bottom-up feedback.&lt;/p&gt;
+
+&lt;h4 id=&quot;small-batches-were-the-key&quot;&gt;Small batches were the key&lt;/h4&gt;
+
+&lt;p&gt;When Toyota made cars in small batches, they could fix errors quickly. This was &lt;a href=&quot;https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795/&quot;&gt;their core innovation&lt;/a&gt;. To catch the errors, they needed empowered employees. The employees would find an error, come up with a fix, and the next small batch would be improved. It was all about operating at a small scale, within a big company. These small batches, and the culture of using the batches to continually learn and improve, led to the great results that others envied: the efficiency and small inventories called lean, and the low defects sought by Six Sigma.&lt;/p&gt;
+
+&lt;h3 id=&quot;agile-software-follows-toyota&quot;&gt;Agile software follows Toyota&lt;/h3&gt;
+
+&lt;p&gt;It was up to the tech startup world to fully embrace this plumbing, with agile development. The core of agile is to build software in small stages. This allows errors to be caught and fixed quickly, and a design can adapt to what’s been learned from the previous stage. Again, it’s about operating at a small scale. Instead of a small number of cars released at once, you have small amounts of programming code.&lt;/p&gt;
+
+&lt;h3 id=&quot;amazons-twist&quot;&gt;Amazon’s twist&lt;/h3&gt;
+
+&lt;p&gt;Along came Amazon, inspired by the tech industry. Jeff Bezos started out in the 1990’s with a certain amount of agile development. And then, in the early 2000’s Bezos took inspiration from the core Toyota concept of small-scale processes, and the company went beyond agile.&lt;/p&gt;
+
+&lt;p&gt;Instead of a big traditional engineering organization putting out small batches of improvements, Bezos introduced the idea of the two-pizza team. This was a team small enough to be fed by two pizzas, and it was promoted as the main unit of organization in the company (though of course there were groupings above that, up to the VP level).&lt;/p&gt;
+
+&lt;h4 id=&quot;the-two-pizza-rule-isnt-really-about-meetings&quot;&gt;The two-pizza rule isn’t really about meetings&lt;/h4&gt;
+
+&lt;p&gt;One reason for a two-pizza team is that people communicate well at that scale. You can all fit around a conference table together. But another even more important reason is that smaller teams own a smaller piece of the big product, and can iterate more quickly on improving it. Build, release, gather data on how well it worked, redesign, build, and repeat. This isn’t just meetings, it’s how you do your work every day.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-role-of-microservices&quot;&gt;The role of microservices&lt;/h3&gt;
+
+&lt;p&gt;What about the chaos of having many small teams work on a big product? Wouldn’t they step on each others’ toes? This was addressed by breaking up big products - the platforms behind the retail website - into microservices.&lt;/p&gt;
+
+&lt;h4 id=&quot;building-blocks&quot;&gt;Building blocks&lt;/h4&gt;
+
+&lt;p&gt;Each microservice is a small chunk of a platform, designed to do one thing out of the many things the platform did. Each microservice provides an interface that allows other microservices to connect to it. They can then form a collection of services that replicates the old platform. Or, a microservice can be used to assemble a new system, like a building block.&lt;/p&gt;
+
+&lt;h4 id=&quot;many-separate-places-to-innovate&quot;&gt;Many separate places to innovate&lt;/h4&gt;
+
+&lt;p&gt;The really valuable thing about the microservice, though, is that it operates on a small scale. This makes it manageable by a small team, who are working in small batches. You now have a whole enterprise that is broken up into as many development cycles as possible, each one an opportunity to catch and fix errors. Or to find and fill opportunities for the customer.&lt;/p&gt;
+
+&lt;p&gt;Think about it this way: Toyota broke up its one big workflow, to get cars out the door. Amazon has gone further by also making many parallel workflows, each one broken up into batches like Toyota’s car production.&lt;/p&gt;
+
+&lt;h3 id=&quot;amazing-results&quot;&gt;Amazing results&lt;/h3&gt;
+
+&lt;p&gt;The advantages of having many small, fast development cycles is evident at Amazon. New products, like Amazon video, seem to appear almost overnight. Amazon Web Services (AWS) adds features at a blistering rate.&lt;/p&gt;
+
+&lt;p&gt;And contrary to some stereotypes, this isn’t all about engineers who work extra fast or stay extra late. It’s about catching and fixing errors as early as possible, and experimenting with innovations as frequently as possible. It’s about the plumbing of small batches, small teams, and small units of product.&lt;/p&gt;
+
+&lt;p&gt;Can this work for other companies? What cultural changes do you need to get there? We’ll toss around some ideas on those subjects in upcoming posts.&lt;/p&gt;</content><author><name></name></author><category term="lean" /><summary type="html">As Amazon roars across the global economy, we’re reminded of another company that roared in a similar manner back in the 1980s - Toyota.</summary></entry><entry><title type="html">Amazon and the environment</title><link href="/environment/2020/12/28/amazon-environment.html" rel="alternate" type="text/html" title="Amazon and the environment" /><published>2020-12-28T13:00:00-08:00</published><updated>2020-12-28T13:00:00-08:00</updated><id>/environment/2020/12/28/amazon-environment</id><content type="html" xml:base="/environment/2020/12/28/amazon-environment.html">&lt;p&gt;Could it be that Amazon is good for the environment? What about the cardboard boxes, and the trucks, and the power-hungry data centers? To understand what Amazon brings to the table, we need to look at the alternatives.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
